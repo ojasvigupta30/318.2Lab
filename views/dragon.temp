@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>#title#</title>
+  <link rel="stylesheet" href="/styles/style.css">
+</head>
+<body>
+  <h1>#message#</h1>
+  <img src="/images/dragon.jpeg" alt="Dragon Image">
+  <p>The dragon breathes fire, but you are brave. Will you fight or flee?</p>
+  <a href="/">Back to Home</a>
+</body>
+</html>
